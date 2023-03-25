@@ -1,8 +1,8 @@
 ---
 media:
-  - file: wasmio2023.jpg
+  - file: WASMIO2023.jpg
     alt: Oscar presenting a demo of grain and lunatic at Wasm IO
 ---
 
-@oscar_spen presented an amazing demo of grain interacting with @lunatic_runtime⁩ through the work in progress lunatic sdk for Wasm IO.
+@oscar_spen presented an amazing demo of grain interacting with @lunatic_runtime through the work in progress lunatic sdk for Wasm IO.
 https://github.com/grain-lang/lunatic-gr
